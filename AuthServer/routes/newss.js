@@ -965,4 +965,4 @@ const news = {
   ],
 };
 
-modeule.exports = news;
+module.exports = news;
