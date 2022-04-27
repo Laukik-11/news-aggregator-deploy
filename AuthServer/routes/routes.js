@@ -262,10 +262,9 @@ router.get("/news/:category", userAuthCheck, async (req, res) => {
   // console.log("Fetching Data...", category);
   if (category === "general") {
     // const result = news.general;
-    console.log(news.general);
     return res.json(news.general);
   } else if (category === "entertainment") {
-    return res.json(news.entertainmentl);
+    return res.json(news.entertainment);
   } else if (category === "health") {
     return res.json(news.health);
   } else if (category === "business") {

@@ -654,7 +654,7 @@ const news = {
         "Undertreatment with thyroid hormone replacement can put patients with hypothyroidism at risk for worse hospital outcomes, including longer length of stay and higher rates of readmission, according to… [+2465 chars]",
     },
   ],
-  buisness: [
+  business: [
     {
       source: {
         id: null,
